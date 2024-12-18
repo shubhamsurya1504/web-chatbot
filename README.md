@@ -50,23 +50,64 @@ pulse-qa/
 
 ### 🌐 Smart Web Crawling
 
-* Configurable depth and page limits *Intelligent URL filtering *Progress tracking
+* Configurable depth and page limits
+* Intelligent URL filtering
+* Progress tracking
 
 
 ### 📑 Content Processing
 
-* Removes irrelevant elements (navigation, footers) * Preserves document hierarchy * Handles multiple content types
+* Removes irrelevant elements (navigation, footers)
+* Preserves document hierarchy
+* Handles multiple content types
 
 
 ### 🧠 Advanced RAG System
 
-* Google's Gemini AI integration * Semantic search capabilities * Context-aware responses
+* Google's Gemini AI integration
+* Semantic search capabilities
+* Context-aware responses
 
 
 ### 💾 Extensible Storage
 
-* Chromadb vector database * Supports appending new content * Efficient retrieval
-  
+* Chromadb vector database
+* Supports appending new content
+* Efficient retrieval
+
+## Installation
+1. Clone the repository:
+   
+```
+git clone https://github.com/rajeshmore1/Pulse-WebQA_Agent.git
+cd Pulse-WebQA_Agent
+```
+2. Create a virtual environment
+```
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+3. Install dependencies:
+```
+pip install -r requirements.txt
+
+```
+4. Set up environment variables:
+
+```
+echo "GOOGLE_API_KEY=your_api_key_here" > .env
+```
+## Usage
+
+Starting the Application
+```
+python app.py
+```
+
+## Web Interface
+
+![image](https://github.com/user-attachments/assets/1da9b727-59ba-42bf-a141-14a3f4229950)
+
 ## Contributing
 
 1. Fork the repository
