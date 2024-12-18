@@ -1,9 +1,3 @@
-#import gradio as gr
-#from urllib.parse import urlparse
-#from crawler import crawl
-#from processor import process_text_files
-#from qa_system import QASystem
-
 import gradio as gr
 from urllib.parse import urlparse
 from .crawler import crawl
