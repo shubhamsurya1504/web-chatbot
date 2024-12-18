@@ -30,7 +30,8 @@ A powerful documentation QA system that crawls help websites, processes content,
 ## Storage Structure
 
 ```
-pulse-qa/
+Pulse-WebQA_Agent/
+├──notebooks
 ├── text/                    # Raw crawled content
 │   └── domain.com/
 │       ├── page1.txt
@@ -40,12 +41,14 @@ pulse-qa/
 ├── chroma_db/             # Vector database
 │   ├── index/
 │   └── embeddings/
-├── requirements.txt
 └── src
     ├── app.py
     ├── crawler.py
     ├── processor.py
     └── qa_system.py
+├── requirements.txt
+└── Dockerfile
+
 ```
 ## Features
 
