@@ -50,7 +50,7 @@ pulse-qa/
 
 ### 🌐 Smart Web Crawling
 
-* Configurable depth and page limits * Intelligent URL filtering * Progress tracking
+* Configurable depth and page limits *Intelligent URL filtering *Progress tracking
 
 
 ### 📑 Content Processing
