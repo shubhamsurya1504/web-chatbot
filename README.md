@@ -46,3 +46,30 @@ pulse-qa/
     ├── processor.py
     └── qa_system.py
 ```
+## Features
+
+### 🌐 Smart Web Crawling
+
+* Configurable depth and page limits * Intelligent URL filtering * Progress tracking
+
+
+### 📑 Content Processing
+
+* Removes irrelevant elements (navigation, footers) * Preserves document hierarchy * Handles multiple content types
+
+
+### 🧠 Advanced RAG System
+
+* Google's Gemini AI integration * Semantic search capabilities * Context-aware responses
+
+
+### 💾 Extensible Storage
+
+* Chromadb vector database * Supports appending new content * Efficient retrieval
+  
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit changes
+4. Open a pull request
