@@ -1,0 +1,9 @@
+requests
+pandas
+langchain-google-genai
+gradio
+chromadb
+langchain-community
+langchain-google-vertexai
+langchain-google-genai
+beautifulsoup4
