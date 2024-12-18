@@ -4,7 +4,6 @@ from .crawler import crawl
 from .processor import process_text_files
 from .qa_system import QASystem
 
-# Rest of the code remains the same...
 
 class PulseQA:
     def __init__(self, google_api_key):
