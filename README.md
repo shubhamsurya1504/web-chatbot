@@ -2,7 +2,7 @@
 
 <!-- Center-align the logo and set its size -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc619cf4-f0ce-4e30-9884-a9a6a6623940" alt="Deepcure Logo" width="175" height="175"/>
+  <img src="https://github.com/user-attachments/assets/fc619cf4-f0ce-4e30-9884-a9a6a6623940" alt="Pulse-WebQA Agent Logo" width="175" height="175"/>
 </p>
 
 
@@ -30,7 +30,7 @@ A powerful documentation QA system that crawls help websites, processes content,
 ## Flow Diagram / Architecture
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/ffd28e21-b531-4d8e-b36b-38e097cc0c44)
+<img src="https://github.com/user-attachments/assets/ffd28e21-b531-4d8e-b36b-38e097cc0c44"/>
 </p>
 
 ## Storage Structure
