@@ -20,12 +20,18 @@ A powerful documentation QA system that crawls help websites, processes content,
 
 ## Table of Contents
 
-1. Architecture
-2. Features
-3. Installation
-4. Usage
-5. Technical Details
+1. Flow Diagram / Architecture
+2. Storage Structure
+3. Features
+4. Installation
+5. Usage
 6. Contributing
+
+## Flow Diagram / Architecture
+
+<p align="center">
+![image](https://github.com/user-attachments/assets/ffd28e21-b531-4d8e-b36b-38e097cc0c44)
+</p>
 
 ## Storage Structure
 
