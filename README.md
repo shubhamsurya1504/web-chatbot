@@ -8,6 +8,16 @@
 
 A powerful documentation QA system that crawls help websites, processes content, and provides accurate answers using RAG (Retrieval-Augmented Generation) with Google's Gemini AI.
 
+### Python Packages For Building QA Agent 
+![Static Badge](https://img.shields.io/badge/Python-3.10slim-blue)
+![Static Badge](https://img.shields.io/badge/pandas-2.2.3-red)
+![Static Badge](https://img.shields.io/badge/langchain_community-0.3.12-yellow)
+![Static Badge](https://img.shields.io/badge/langchain_google_vertexai-2.0.9-lightblue)
+![Static Badge](https://img.shields.io/badge/langchain_google_genai-2.0.7-green)
+![Static Badge](https://img.shields.io/badge/chromadb-0.5.23-purple)
+![Static Badge](https://img.shields.io/badge/gradio-5.9.1-yellow)
+
+
 ## Table of Contents
 
 1. Architecture
