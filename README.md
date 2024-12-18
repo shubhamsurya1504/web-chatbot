@@ -40,7 +40,8 @@ pulse-qa/
 ├── chroma_db/             # Vector database
 │   ├── index/
 │   └── embeddings/
-├── src
+├── requirements.txt
+└── src
     ├── app.py
     ├── crawler.py
     ├── processor.py
