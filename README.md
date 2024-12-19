@@ -114,6 +114,10 @@ Starting the Application
 python app.py
 ```
 
+Running Unit Test
+```
+python -m unittest test_crawler.py -v
+```
 ## Web Interface
 
 ![image](https://github.com/user-attachments/assets/1da9b727-59ba-42bf-a141-14a3f4229950)
