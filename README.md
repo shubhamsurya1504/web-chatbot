@@ -125,6 +125,23 @@ python -m unittest test_crawler.py -v
 
 ![image](https://github.com/user-attachments/assets/1da9b727-59ba-42bf-a141-14a3f4229950)
 
+## Containerisation
+
+Build the Docker image:
+
+```
+docker build -t pulse-qa .
+```
+Run using Docker Compose:
+
+```
+# Create .env file with your API key
+echo "GOOGLE_API_KEY=your_api_key_here" > .env
+
+# Start the application
+docker-compose up
+```
+
 ## Contributing
 
 1. Fork the repository
