@@ -54,7 +54,9 @@ Pulse-WebQA_Agent/
     └── qa_system.py
 ├── requirements.txt
 ├── run.py
-└── Dockerfile
+├── docker-compose.yml
+├── Dockerfile
+└── setup.py
 
 ```
 ## Features
