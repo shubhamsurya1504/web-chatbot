@@ -17,8 +17,6 @@ A powerful documentation QA system that crawls help websites, processes content,
 ![Static Badge](https://img.shields.io/badge/chromadb-0.5.23-purple)
 ![Static Badge](https://img.shields.io/badge/gradio-5.9.1-yellow)
 
-# Video Tutorial
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aEZ40Zj2L8Q/0.jpg)](https://www.youtube.com/watch?v=aEZ40Zj2L8Q)
 
 
 ## Table of Contents
