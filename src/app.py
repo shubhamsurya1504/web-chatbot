@@ -3,6 +3,10 @@ from urllib.parse import urlparse
 from .crawler import crawl
 from .processor import process_text_files
 from .qa_system import QASystem
+import os
+import dotenv
+
+dotenv.load_dotenv()
 
 
 class PulseQA:
@@ -92,6 +96,6 @@ def create_app(google_api_key):
     return demo
 
 if __name__ == "__main__":
-    GOOGLE_API_KEY = "your_google_api_key_here"  # Replace with your API key
+    GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')  # Replace with your API key
     demo = create_app(GOOGLE_API_KEY)
     demo.launch(share=True)
