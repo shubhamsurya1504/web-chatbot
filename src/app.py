@@ -89,7 +89,7 @@ def create_app(google_api_key):
             ### Example Questions:
             - What is [product] and how does it work?
             - How do I configure [feature]?
-            - What are the system requirements?
+            - What are the system requirements.?
             """
         )
     
